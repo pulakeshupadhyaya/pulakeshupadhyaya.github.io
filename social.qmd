@@ -3,8 +3,9 @@ title: "Social"
 ---
 
 I was born in the beautiful town of Tezpur in Assam, India.\ 
+I love cricket. \
 
-## Positions of Responsibility
+# Positions of Responsibility
 
 1.  **President**, Computer Science and Engineering Graduate Students' Association, TAMU (September 2017-August 2018)
 2.  **Secretary**, Computer Science and Engineering Graduate Students' Association, TAMU (September 2016-August 2017)
