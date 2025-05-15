@@ -1,5 +1,5 @@
 ---
-title: "teaching.qmd"
+title: "Teaching"
 editor: visual
 ---
 
