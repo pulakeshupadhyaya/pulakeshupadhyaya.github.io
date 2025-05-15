@@ -12,5 +12,12 @@
     "title": "Research",
     "section": "",
     "text": "Research\nMy research areas include causal inference, machine learning, and statistical modeling. I am particularly interested in developing methods for estimating causal effects in observational studies and understanding the implications of model assumptions on causal inference. Specifically, I am interested in the application of machine learning methods to causal inference problems, including the use of machine learning algorithms for estimating treatment effects and the development of new methods for assessing the robustness of causal conclusions to model assumptions. I have also worked on the intersection of machine learning and information theory, exploring how information-theoretic principles can be used to improve the robustness of machine learning models, and how machine learning can be used for error correction using natural redundancy.\n#Curriculum\n#Learning Notes"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "teaching.qmd",
+    "section": "",
+    "text": "Data Engineering and Visualization, May - Aug 2025\nIndustrial T Project, May- Aug 2025"
   }
 ]

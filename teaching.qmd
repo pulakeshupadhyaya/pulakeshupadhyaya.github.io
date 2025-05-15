@@ -1,0 +1,8 @@
+---
+title: "teaching.qmd"
+editor: visual
+---
+
+Data Engineering and Visualization, May - Aug 2025
+
+Industrial T Project, May- Aug 2025
