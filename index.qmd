@@ -8,8 +8,6 @@ title: "Welcome"
 
 Assistant Professor, InfoComm Technology Cluster (ICT), Singapore Institute of Technology.
 
-[Click here for publications.](URL_FOR_PUBLICATIONS)  
-[Download CV.](URL_FOR_CV)
 
 ### News:
 * Jan, 2025: Joined as Assistant Professor @ ICT, SIT.
