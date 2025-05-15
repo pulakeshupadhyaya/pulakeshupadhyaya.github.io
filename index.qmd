@@ -1,11 +1,3 @@
----
-title: "temp_website"
----
+![](images/07f124b9-75df-4f19-8ceb-c193b98add19.jpeg){fig-align="left" width="387"}
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hello everyone, this is **Pulakesh Upadhyaya,** *Assistant Professor, Singapore Institute of Technology.*
