@@ -1,68 +1,68 @@
 ---
 title: "Publications"
+format: html
 ---
 
-## Preprints/Reports
+# Publications
 
-- **[pr3]** A. Wu, T. Choudhary, P. Upadhyaya, A. Ali, P. Yang, R. Kamaleswaran. “Deep Representation Learning-Based Dynamic Trajectory Phenotyping for Acute Respiratory Failure in Medical Intensive Care Units,” *arXiv preprint* arXiv:2405.02563, 2024.  
-  *Link: [https://arxiv.org/abs/2405.02563](https://arxiv.org/abs/2405.02563)*
+## Preprints and Reports
 
-- **[pr2]** D.B. Ramesh, R.I. Sridhar, P. Upadhyaya, R. Kamaleswaran. “Lung Grounded-SAM (LuGSAM): A Novel Framework for Integrating Text Prompts to Segment Anything Model (SAM) for Segmentation Tasks of ICU Chest X-Rays,” *TechRxiv*, October 2, 2023.  
-  *DOI: [10.36227/techrxiv.24224761.v1](https://doi.org/10.36227/techrxiv.24224761.v1)*
+- [pr3] A Wu, T Choudhary, P. Upadhyaya, A Ali, P Yang, R Kamaleswaran. “Deep Representation Learning-Based Dynamic Trajectory Phenotyping for Acute Respiratory Failure in Medical Intensive Care Units,” *arXiv preprint arXiv:2405.02563*, 2024.
 
-- **[pr1]** P. Upadhyaya, A. Jiang. “Machine Learning for Error Correction with Natural Redundancy,” *arXiv preprint* arXiv:1910.07420, 2019.  
-  *Link: [https://arxiv.org/abs/1910.07420](https://arxiv.org/abs/1910.07420)*
+- [pr2] DB Ramesh, RI Sridhar, P. Upadhyaya, R Kamaleswaran. “Lung Grounded-SAM (LuGSAM): A Novel Framework for Integrating Text prompts to Segment Anything Model (SAM) for Segmentation Tasks of ICU Chest X-Rays,” *Authorea Preprints*, 2023.
 
-## Publications
+- [pr1] P. Upadhyaya and A. Jiang. “Machine Learning for Error Correction with Natural Redundancy,” *arXiv preprint arXiv:1910.07420*, 2019.
 
-- **[c10]** P. Krishnan, A. Sikora, P. Upadhyaya, B. Murray, P. Yang, A. Esper, R. Kamaleswaran. “1047: Multimodal Treatment Effect on Heart Rate Variability Among Vasoactive Medication Use in Sepsis,” *Critical Care Medicine*, 53(1), January 2025.  
-  *DOI: [10.1097/01.ccm.0001102852.37247.d5](https://doi.org/10.1097/01.ccm.0001102852.37247.d5)*
+## Journal Articles and Conference Proceedings
 
-- **[j7]** T. Choudhary, P. Upadhyaya, M.Z. Parvez, S. Rafi Ahamed. “Editorial: Smart Biomedical Signal Analysis with Machine Intelligence,” *Frontiers in Signal Processing*, 5:1555876, 2025.  
-  *DOI: [10.3389/frsip.2025.1555876](https://doi.org/10.3389/frsip.2025.1555876)*
+- [c10] Krishnan, P; Sikora, A; Upadhyaya, P; Murray, B; Yang, P; Esper, A; Kamaleswaran, R. “1047: MULTIMODAL TREATMENT EFFECT ON HEART RATE VARIABILITY AMONG VASOACTIVE MEDICATION USE IN SEPSIS.” *Critical Care Medicine*, 53(1), January 2025. DOI: 10.1097/01.ccm.0001102852.37247.d5
 
-- **[j6]** P. Upadhyaya, J. Wang, D.T. Mathew, A. Ali, S. Tallowin, E. Gann, F.A. Lisboa, S.A. Schobel, E.A. Elster, T.G. Buchman, C.J. Dente, R. Kamaleswaran. “Predicting Sepsis-Induced Hypotension Patient Attributes for Restrictive vs Liberal Fluid Strategy,” *Shock*, 63(3):399-405, March 2025.  
-  *DOI: [10.1097/SHK.0000000000002506](https://doi.org/10.1097/SHK.0000000000002506)*
+- [j7] Choudhary T, Upadhyaya P, Parvez MZ, Rafi Ahamed S. “Editorial: Smart biomedical signal analysis with machine intelligence.” *Front. Signal Process*, 2025, 5:1555876.
 
-- **[j5]** T. Choudhary, P. Upadhyaya, C. Davis, P. Yang, C. Coopersmith, R. Kamaleswaran. “Derivation and Validation of Generalized Sepsis-Induced Acute Respiratory Failure Phenotypes Among Critically Ill Patients: A Retrospective Study,” *Critical Care*, 29:26, 2025.  
-  *DOI: [10.1186/s13054-025-04567-8](https://doi.org/10.1186/s13054-025-04567-8)*
+- [j6] P. Upadhyaya, J. Wang et al. “Predicting Sepsis Induced Hypotension Patient Attributes for Restrictive vs Liberal Fluid Strategy,” *Shock*, 2024.
 
-- **[c9]** T. Choudhary, P. Upadhyaya, C. Davis, P. Yang, C. Coopersmith, R. Kamaleswaran. “A Multicenter Study on Deriving and Validating Data-Driven Phenotypes for Sepsis-Induced Acute Respiratory Failure in ICU Patients,” *American Thoracic Society International Conference Abstracts*, 2024.
+- [j5] T Choudhary, P. Upadhyaya, C. Davis, P. Yang, et al. “Derivation and validation of generalized sepsis-induced acute respiratory failure phenotypes among critically ill patients: a retrospective study,” *Critical Care*, 28(321), 2024.
 
-- **[c8]** P. Upadhyaya, T. Choudhary, C. Davis, P. Yang, C. Coopersmith, R. Kamaleswaran. “A Retrospective Causal Inference-Based Study Using Machine Learning for Identifying Treatment Effects of Various Therapies in Sepsis-Induced Acute Respiratory Failure Phenotypes,” *American Thoracic Society International Conference Abstracts*, A5071, 2024.  
-  *DOI: [10.1164/ajrccm-conference.2024.209.1_MeetingAbstracts.A5071](https://doi.org/10.1164/ajrccm-conference.2024.209.1_MeetingAbstracts.A5071)*
+- [c9] T Choudhary, P. Upadhyaya, C Davis, P Yang, C Coopersmith, et al. “A Multicenter Study on Deriving and Validating Data-driven Phenotypes for Sepsis-induced Acute Respiratory Failure in ICU Patients,” *C96. Precision Medicine in Critical Care*, 2024.
 
-- **[c7]** P. Upadhyaya, J. Wang, J.S. De Vale, F. Lisboa, S. Schobel, E. Elster, T.G. Buchman, C.J. Dente, R. Kamaleswaran. “1478: Characterizing Sepsis-Induced Hypotension Patients Who Benefit from an Early Vasopressor Strategy,” *Critical Care Medicine*, 52(1):S710, 2024.
+- [c8] P. Upadhyaya, T Choudhary, C Davis, P Yang, C Coopersmith, et al. “A Retrospective Causal Inference-based Study Using Machine Learning for Identifying Treatment Effects of Various Therapies in Sepsis-induced Acute Respiratory Failure Phenotypes,” *C22. Artificial Intelligence in the ICU*, 2024.
 
-- **[j4]** J. Wang, J.S. De Vale, S. Gupta, P. Upadhyaya, F.A. Lisboa, S.A. Schobel, E.A. Elster, T.G. Buchman, C.J. Dente, R. Kamaleswaran. “ClotCatcher: A Novel Natural Language Model to Accurately Adjudicate Venous Thromboembolism from Radiology Reports,” *BMC Medical Informatics and Decision Making*, 23(1):262, 2023.  
-  *DOI: [10.1186/s12911-023-02156-4](https://doi.org/10.1186/s12911-023-02156-4)*
+- [c7] P. Upadhyaya, J Wang, JS De Vale, F Lisboa, S Schobel, E Elster, et al. “1478: Characterizing Sepsis-Induced Hypotension Patients Who Benefit from an Early Vasopressor Strategy,” *Critical Care Medicine*, 52(1), S710, 2024.
 
-- **[c6]** Y. Ling, P. Upadhyaya, L. Chen, Y. Kim, X. Jiang. “Inferring Personalized Treatment Effect of Antihypertensives on Alzheimer's Disease Using Deep Learning,” *IEEE International Conference on Healthcare Informatics (ICHI)*, 2023.
+- [j4] J Wang, JS de Vale, S Gupta, P. Upadhyaya, FA Lisboa, SA Schobel, et al. “ClotCatcher: a novel natural language model to accurately adjudicate venous thromboembolism from radiology reports,” *BMC Medical Informatics and Decision Making*, 23(1), 262, 2023.
 
-- **[j3]** P. Upadhyaya, K. Zhang, C. Li, X. Jiang, Y. Kim. “Scalable Causal Structure Learning: Traditional and Deep Learning Algorithms and New Opportunities in Biomedicine,” *JMIR Medical Informatics*, 11(1):e38266, 2023.  
-  *DOI: [10.2196/38266](https://doi.org/10.2196/38266)*
+- [c6] Y Ling, P Upadhyaya, L Chen, Y Kim, X Jiang. “Inferring Personalized Treatment Effect of Antihypertensives on Alzheimer’s Disease Using Deep Learning,” *IEEE ICHI*, 2023.
 
-- **[j2]** Y. Ling, P. Upadhyaya, L. Chen, X. Jiang, Y. Kim. “Emulate Randomized Clinical Trials Using Heterogeneous Treatment Effect Estimation for Personalized Treatments: Methodology Review and Benchmark,” *Journal of Biomedical Informatics*, 137:104256, 2023.  
-  *DOI: [10.1016/j.jbi.2022.104256](https://doi.org/10.1016/j.jbi.2022.104256)*
+- [j3] P Upadhyaya, K Zhang, C Li, X Jiang, Y Kim. “Scalable Causal Structure Learning: Traditional and Deep Learning Algorithms and New Opportunities in Biomedicine.” *JMIR Med Inform*, 2022.
 
-- **[c5]** B. Wu, P. Upadhyaya, S. Savitz, X. Jiang, S. Shams. “Novel Machine-Learning Analysis to Predict Outcomes During Inpatient Rehabilitation,” *World Stroke Congress*, 2021.
+- [j2] Y Ling, P Upadhyaya, L Chen, X Jiang, Y Kim. “Emulate Randomized Clinical Trials using Heterogeneous Treatment Effect Estimation for Personalized Treatments: Methodology Review and Benchmark,” *J Biomed Inform*, 2022.
 
-- **[w9]** K. Huang, N. Raviv, S. Jain, P. Upadhyaya, J. Bruck, P.H. Siegel, A.A. Jiang. “Improve Robustness of Deep Neural Networks by Coding,” *Information Theory and Applications Workshop (ITA)*, 2020.
+- [c5] B Wu, P. Upadhyaya, S. Savitz, X. Jiang, S. Shams. “Novel Machine-learning Analysis to Predict Outcomes During Inpatient Rehabilitation,” *World Stroke Congress*, 2021.
 
-- **[c4]** N. Raviv, S. Jain, P. Upadhyaya, J. Bruck, A. Jiang. “CodNN: Robust Neural Networks from Coded Classification,” *IEEE International Symposium on Information Theory (ISIT)*, 2020.
+- [w9] K. Huang, N. Raviv, S. Jain, P. Upadhyaya, J. Bruck, P.H. Siegel, A.A. Jiang. “Improve Robustness of Deep Neural Networks by Coding,” *ITA Workshop*, 2020.
 
-- **[w8]** N. Raviv, P. Upadhyaya, S. Jain, J. Bruck, A. Jiang. “Coded Deep Neural Networks for Robust Neural Computation,” *Non-Volatile Memories Workshop (NVMW)*, 2020.
+- [c4] N. Raviv, S. Jain, P. Upadhyaya, J. Bruck, A. Jiang. “CodNN: Robust Neural Networks From Coded Classification,” *IEEE ISIT*, 2020.
 
-- **[c3]** P. Upadhyaya, A. Jiang. “Representation-Oblivious Error Correction by Natural Redundancy,” *IEEE International Conference on Communications (ICC)*, Shanghai, China, May 2019.
+- [w8] N. Raviv, P. Upadhyaya, S. Jain, J. Bruck, A. Jiang. “Coded Deep Neural Networks for Robust Neural Computation,” *NVMW*, 2020.
 
-- **[w7]** P. Upadhyaya, A. Jiang. “File Type Recognition and Error Correction for NVMs with Deep Learning,” *Non-Volatile Memories Workshop (NVMW)*, La Jolla, CA, March 2019.
+- [c3] P. Upadhyaya, A. Jiang. “Representation-Oblivious Error Correction by Natural Redundancy,” *IEEE ICC*, Shanghai, 2019.
 
-- **[w6]** P. Upadhyaya, X. Yu, J. Mink, J. Cordero, P. Parmar, A. Jiang. “Error Correction for Hardware-Implemented Deep Neural Networks,” *Non-Volatile Memories Workshop (NVMW)*, La Jolla, CA, March 2019.
+- [w7] P. Upadhyaya, A. Jiang. “File Type Recognition and Error Correction for NVMs with Deep Learning,” *NVMW*, 2019.
 
-- **[w5]** P. Upadhyaya, X. Yu, J. Mink, J. Cordero, P. Parmar, A. Jiang. “Error Correction for Noisy Neural Networks,” *Information Theory and Applications (ITA) Workshop*, San Diego, CA, February 2019.
+- [w6] P. Upadhyaya, X. Yu, J. Mink, J. Cordero, P. Parmar, A. Jiang. “Error Correction for Hardware-Implemented Deep Neural Networks,” *NVMW*, 2019.
 
-- **[w4]** A. Jiang, P. Upadhyaya, Y. Wang, K.R. Narayanan, H. Zhou, J. Sima, J. Bruck. “Efficient Assistance to LDPC Code-Based Erasure Recovery in NVM Storage,” *Non-Volatile Memories Workshop (NVMW)*, San Diego, CA, March 2018.
+- [w5] P. Upadhyaya, X. Yu, J. Mink, J. Cordero, P. Parmar, A. Jiang. “Error Correction for Noisy Neural Networks,” *ITA Workshop*, 2019.
 
-- **[c2]** P. Upadhyaya, A. Jiang. “On LDPC Decoding with Natural Redundancy,” *55th Annual Allerton Conference on Communication, Control, and Computing*, 2017.
+- [w4] A. Jiang, P. Upadhyaya, Y. Wang, K. Narayanan, H. Zhou, J. Sima, J. Bruck. “Efficient Assistance to LDPC Code-based Erasure Recovery in NVM Storage,” *NVMW*, 2018.
 
-- **[c1]** P. Upadhyaya, A. Jiang. “Using Natural Redundancy to Enhance LDPC Decoding for Real-World Files,” *IEEE International Symposium on Information Theory (ISIT)*, 2017.
+- [c2] P. Upadhyaya, A. Jiang. “On LDPC Decoding with Natural Redundancy,” *Allerton Conference*, 2017.
+
+- [c1] A. Jiang, P. Upadhyaya, Y. Li, K. Narayanan, H. Zhou, J. Sima, J. Bruck. “Stopping Set Elimination for LDPC Codes,” *Allerton Conference*, 2017.
+
+- [w3] A. Jiang, P. Upadhyaya, E.F. Haratsch, J. Bruck. “Error Correction by Natural Redundancy for Long Term Storage,” *NVMW*, 2017.
+
+- [w2] P. Upadhyaya, A. Jiang. “LDPC Decoding with Natural Redundancy,” *NVMW*, 2017.
+
+- [w1] A. Jiang, P. Upadhyaya, E.F. Haratsch, J. Bruck. “Correcting Errors by Natural Redundancy,” *ITA Workshop*, 2017.
+
+- [j1] S. Nair, P. Upadhyaya, V.M. Tom. “A Dynamic Offset Model based on Stop Line Detector Information.” *Procedia - Social and Behavioral Sciences*, 104, 487–496, 2013.
