@@ -4,7 +4,7 @@
 title: "Welcome"
 ---
 
-## [Pulakesh Upadhyaya - Please specify if you want a name at the top]
+## [Pulakesh Upadhyaya]
 
 Assistant Professor, InfoComm Technology Cluster (ICT), Singapore Institute of Technology.
 
