@@ -1,0 +1,26 @@
+---
+title: "Research"
+---
+
+## Research Philosophy and History
+
+My research philosophy centers on the belief that chaos, while seemingly random, contains a lot of inherent nonlinear order. My research efforts are driven by the quest to understand and explore this order through multidisciplinary approaches, with the help of mathematical and statistical learning tools such as information theory, causal inference, and machine learning. In healthcare, I've applied causal learning to analyze sepsis outcomes and investigated causal structure learning models using real-world data. My past work includes analyzing treatment effects of various drugs on Alzheimer's and other conditions using nationwide claim data in the United States.
+
+During my Ph.D., I focused on the intersection of machine learning and information theory in the context of data storage. My research involved hardware implementation of DNNs, exploring coded construction and leveraging natural redundancy for enhanced data reliability.
+
+I am keen on exploring chaotic systems in other areas such as finance, and try to make sense of chaos and filter out the meaningful signals from noisy data.
+
+## Experience
+
+* **Assistant Professor**, InfoComm Technology (ICT), Singapore Institute of Technology, Singapore. (01/2025-)
+* **Postdoctoral Associate**, Department of Surgery, School of Medicine, Duke University, Durham, North Carolina, USA. (03/2024-11/2024)
+* **Postdoctoral Fellow**, Dept. of Biomedical Informatics, School of Medicine, Emory University, Atlanta, Georgia, USA. (12/2022 -02/2024)  
+    *Machine learning, causal inference, heterogeneous treatment effects.*
+* **Postdoctoral Research Fellow**, School of Biomedical Informatics, University of Texas Health Science Center at Houston, Texas, USA. (10/2020-09/2022)  
+    *Causal structure learning, causal inference, heterogeneous treatment effects.*
+* **Graduate Research/Teaching Assistant**, Dept. of Computer Science and Engineering, Texas A&M University, College Station, Texas, USA. (08/2014 - 08/2020)  
+    *Error Correction using Natural Redundancy.* *Machine Learning Techniques for Error Correction.*
+* **Research Associate**, Dept. of Civil Engineering, Indian Institute of Technology, Bombay, Maharashtra, India. (08/2011-07/2013)  
+    *Composite Signal Control Strategy (CoSiCoSt-2G).* *Simtram, a traffic simulator for Indian road conditions.*
+* **Research Intern**, Department of Computer Science and Engineering, Indian Institute of Technology, Guwahati, Assam, India. (05/2010- 07/2010)  
+    *Implementation of Bloom Filter based IP Lookup algorithm in Click Modular Router.*

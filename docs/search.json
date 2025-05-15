@@ -18,6 +18,83 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Data Engineering and Visualization, May - Aug 2025\nIndustrial T Project, May- Aug 2025"
+    "text": "Assistant Professor, InfoComm Technology Cluster (ICT), Singapore Institute of Technology, Jan 2025 - Present.\nGraduate Teaching Assistant, Dept. of Computer Science and Engineering, Texas A&M University."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research philosophy centers on the belief that chaos, while seemingly random, contains a lot of inherent nonlinear order. My research efforts are driven by the quest to understand and explore this order through multidisciplinary approaches, with the help of mathematical and statistical learning tools such as information theory, causal inference, and machine learning. In healthcare, I’ve applied causal learning to analyze sepsis outcomes and investigated causal structure learning models using real-world data. My past work includes analyzing treatment effects of various drugs on Alzheimer’s and other conditions using nationwide claim data in the United States.\nDuring my Ph.D., I focused on the intersection of machine learning and information theory in the context of data storage. My research involved hardware implementation of DNNs, exploring coded construction and leveraging natural redundancy for enhanced data reliability.\nI am keen on exploring chaotic systems in other areas such as finance, and try to make sense of chaos and filter out the meaningful signals from noisy data."
+  },
+  {
+    "objectID": "research.html#research-philosophy-and-history",
+    "href": "research.html#research-philosophy-and-history",
+    "title": "Research",
+    "section": "",
+    "text": "My research philosophy centers on the belief that chaos, while seemingly random, contains a lot of inherent nonlinear order. My research efforts are driven by the quest to understand and explore this order through multidisciplinary approaches, with the help of mathematical and statistical learning tools such as information theory, causal inference, and machine learning. In healthcare, I’ve applied causal learning to analyze sepsis outcomes and investigated causal structure learning models using real-world data. My past work includes analyzing treatment effects of various drugs on Alzheimer’s and other conditions using nationwide claim data in the United States.\nDuring my Ph.D., I focused on the intersection of machine learning and information theory in the context of data storage. My research involved hardware implementation of DNNs, exploring coded construction and leveraging natural redundancy for enhanced data reliability.\nI am keen on exploring chaotic systems in other areas such as finance, and try to make sense of chaos and filter out the meaningful signals from noisy data."
+  },
+  {
+    "objectID": "research.html#experience",
+    "href": "research.html#experience",
+    "title": "Research",
+    "section": "Experience",
+    "text": "Experience\n\nAssistant Professor, InfoComm Technology (ICT), Singapore Institute of Technology, Singapore. (01/2025-)\nPostdoctoral Associate, Department of Surgery, School of Medicine, Duke University, Durham, North Carolina, USA. (03/2024-11/2024)\nPostdoctoral Fellow, Dept. of Biomedical Informatics, School of Medicine, Emory University, Atlanta, Georgia, USA. (12/2022 -02/2024)\nMachine learning, causal inference, heterogeneous treatment effects.\nPostdoctoral Research Fellow, School of Biomedical Informatics, University of Texas Health Science Center at Houston, Texas, USA. (10/2020-09/2022)\nCausal structure learning, causal inference, heterogeneous treatment effects.\nGraduate Research/Teaching Assistant, Dept. of Computer Science and Engineering, Texas A&M University, College Station, Texas, USA. (08/2014 - 08/2020)\nError Correction using Natural Redundancy. Machine Learning Techniques for Error Correction.\nResearch Associate, Dept. of Civil Engineering, Indian Institute of Technology, Bombay, Maharashtra, India. (08/2011-07/2013)\nComposite Signal Control Strategy (CoSiCoSt-2G). Simtram, a traffic simulator for Indian road conditions.\nResearch Intern, Department of Computer Science and Engineering, Indian Institute of Technology, Guwahati, Assam, India. (05/2010- 07/2010)\nImplementation of Bloom Filter based IP Lookup algorithm in Click Modular Router."
+  },
+  {
+    "objectID": "index.html#pulakesh-upadhyaya---please-specify-if-you-want-a-name-at-the-top",
+    "href": "index.html#pulakesh-upadhyaya---please-specify-if-you-want-a-name-at-the-top",
+    "title": "Welcome",
+    "section": "[Pulakesh Upadhyaya - Please specify if you want a name at the top]",
+    "text": "[Pulakesh Upadhyaya - Please specify if you want a name at the top]\nAssistant Professor, InfoComm Technology Cluster (ICT), Singapore Institute of Technology.\nClick here for publications.\nDownload CV.\n\nNews:\n\nJan, 2025: Joined as Assistant Professor @ ICT, SIT.\n\n\n\nServices:\n\nGuest Associate Editor, Biomedical Signal Processing, Frontiers\nReviewer, Journal of Medical Internet Research, IEEE Transactions on Communications, ITW Workshop 2019, Globecom 2019.\n\n\nLink to Research Page | Link to Publications Page | Link to Teaching Page | Link to Social Page"
+  },
+  {
+    "objectID": "teaching.html#experience",
+    "href": "teaching.html#experience",
+    "title": "Teaching",
+    "section": "",
+    "text": "Assistant Professor, InfoComm Technology Cluster (ICT), Singapore Institute of Technology, Jan 2025 - Present.\nGraduate Teaching Assistant, Dept. of Computer Science and Engineering, Texas A&M University."
+  },
+  {
+    "objectID": "teaching.html#courses",
+    "href": "teaching.html#courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\n\nSingapore Institute of Technology (SIT):\n\nAAI 1001 - Data Engineering and Visualization, Trimester 3 (Summer), 2025.\n\n\nTexas A&M University (TA):\n\nCSCE 629 - Analysis of Algorithms (Graduate), Fall 2015, Spring 2017 and Fall 2018.\n\nCSCE 411 - Analysis of Algorithms, Spring 2016, Fall 2017, Summer 2017, Spring 2019, Summer 2020.\n\nCSCE 222 - Discrete Structures for Computing, Fall 2016, Fall 2019.\n\nCSCE 121 - Introduction to Program Design and Concepts, Summer 2017."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "[pr3] A. Wu, T. Choudhary, P. Upadhyaya, A. Ali, P. Yang, R. Kamaleswaran. “Deep Representation Learning-Based Dynamic Trajectory Phenotyping for Acute Respiratory Failure in Medical Intensive Care Units,” arXiv preprint arXiv:2405.02563, 2024.\nLink: https://arxiv.org/abs/2405.02563\n[pr2] D.B. Ramesh, R.I. Sridhar, P. Upadhyaya, R. Kamaleswaran. “Lung Grounded-SAM (LuGSAM): A Novel Framework for Integrating Text Prompts to Segment Anything Model (SAM) for Segmentation Tasks of ICU Chest X-Rays,” TechRxiv, October 2, 2023.\nDOI: 10.36227/techrxiv.24224761.v1\n[pr1] P. Upadhyaya, A. Jiang. “Machine Learning for Error Correction with Natural Redundancy,” arXiv preprint arXiv:1910.07420, 2019.\nLink: https://arxiv.org/abs/1910.07420"
+  },
+  {
+    "objectID": "social.html",
+    "href": "social.html",
+    "title": "Social",
+    "section": "",
+    "text": "I was born in the beautiful town of Tezpur in Assam, India."
+  },
+  {
+    "objectID": "social.html#positions-of-responsibility",
+    "href": "social.html#positions-of-responsibility",
+    "title": "Social",
+    "section": "Positions of Responsibility",
+    "text": "Positions of Responsibility\n\nPresident, Computer Science and Engineering Graduate Students’ Association, TAMU (September 2017-August 2018)\nSecretary, Computer Science and Engineering Graduate Students’ Association, TAMU (September 2016-August 2017)"
+  },
+  {
+    "objectID": "publications.html#preprintsreports",
+    "href": "publications.html#preprintsreports",
+    "title": "Publications",
+    "section": "",
+    "text": "[pr3] A. Wu, T. Choudhary, P. Upadhyaya, A. Ali, P. Yang, R. Kamaleswaran. “Deep Representation Learning-Based Dynamic Trajectory Phenotyping for Acute Respiratory Failure in Medical Intensive Care Units,” arXiv preprint arXiv:2405.02563, 2024.\nLink: https://arxiv.org/abs/2405.02563\n[pr2] D.B. Ramesh, R.I. Sridhar, P. Upadhyaya, R. Kamaleswaran. “Lung Grounded-SAM (LuGSAM): A Novel Framework for Integrating Text Prompts to Segment Anything Model (SAM) for Segmentation Tasks of ICU Chest X-Rays,” TechRxiv, October 2, 2023.\nDOI: 10.36227/techrxiv.24224761.v1\n[pr1] P. Upadhyaya, A. Jiang. “Machine Learning for Error Correction with Natural Redundancy,” arXiv preprint arXiv:1910.07420, 2019.\nLink: https://arxiv.org/abs/1910.07420"
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Publications",
+    "section": "Publications",
+    "text": "Publications\n\n[c10] P. Krishnan, A. Sikora, P. Upadhyaya, B. Murray, P. Yang, A. Esper, R. Kamaleswaran. “1047: Multimodal Treatment Effect on Heart Rate Variability Among Vasoactive Medication Use in Sepsis,” Critical Care Medicine, 53(1), January 2025.\nDOI: 10.1097/01.ccm.0001102852.37247.d5\n[j7] T. Choudhary, P. Upadhyaya, M.Z. Parvez, S. Rafi Ahamed. “Editorial: Smart Biomedical Signal Analysis with Machine Intelligence,” Frontiers in Signal Processing, 5:1555876, 2025.\nDOI: 10.3389/frsip.2025.1555876\n[j6] P. Upadhyaya, J. Wang, D.T. Mathew, A. Ali, S. Tallowin, E. Gann, F.A. Lisboa, S.A. Schobel, E.A. Elster, T.G. Buchman, C.J. Dente, R. Kamaleswaran. “Predicting Sepsis-Induced Hypotension Patient Attributes for Restrictive vs Liberal Fluid Strategy,” Shock, 63(3):399-405, March 2025.\nDOI: 10.1097/SHK.0000000000002506\n[j5] T. Choudhary, P. Upadhyaya, C. Davis, P. Yang, C. Coopersmith, R. Kamaleswaran. “Derivation and Validation of Generalized Sepsis-Induced Acute Respiratory Failure Phenotypes Among Critically Ill Patients: A Retrospective Study,” Critical Care, 29:26, 2025.\nDOI: 10.1186/s13054-025-04567-8\n[c9] T. Choudhary, P. Upadhyaya, C. Davis, P. Yang, C. Coopersmith, R. Kamaleswaran. “A Multicenter Study on Deriving and Validating Data-Driven Phenotypes for Sepsis-Induced Acute Respiratory Failure in ICU Patients,” American Thoracic Society International Conference Abstracts, 2024.\n[c8] P. Upadhyaya, T. Choudhary, C. Davis, P. Yang, C. Coopersmith, R. Kamaleswaran. “A Retrospective Causal Inference-Based Study Using Machine Learning for Identifying Treatment Effects of Various Therapies in Sepsis-Induced Acute Respiratory Failure Phenotypes,” American Thoracic Society International Conference Abstracts, A5071, 2024.\nDOI: 10.1164/ajrccm-conference.2024.209.1_MeetingAbstracts.A5071\n[c7] P. Upadhyaya, J. Wang, J.S. De Vale, F. Lisboa, S. Schobel, E. Elster, T.G. Buchman, C.J. Dente, R. Kamaleswaran. “1478: Characterizing Sepsis-Induced Hypotension Patients Who Benefit from an Early Vasopressor Strategy,” Critical Care Medicine, 52(1):S710, 2024.\n[j4] J. Wang, J.S. De Vale, S. Gupta, P. Upadhyaya, F.A. Lisboa, S.A. Schobel, E.A. Elster, T.G. Buchman, C.J. Dente, R. Kamaleswaran. “ClotCatcher: A Novel Natural Language Model to Accurately Adjudicate Venous Thromboembolism from Radiology Reports,” BMC Medical Informatics and Decision Making, 23(1):262, 2023.\nDOI: 10.1186/s12911-023-02156-4\n[c6] Y. Ling, P. Upadhyaya, L. Chen, Y. Kim, X. Jiang. “Inferring Personalized Treatment Effect of Antihypertensives on Alzheimer’s Disease Using Deep Learning,” IEEE International Conference on Healthcare Informatics (ICHI), 2023.\n[j3] P. Upadhyaya, K. Zhang, C. Li, X. Jiang, Y. Kim. “Scalable Causal Structure Learning: Traditional and Deep Learning Algorithms and New Opportunities in Biomedicine,” JMIR Medical Informatics, 11(1):e38266, 2023.\nDOI: 10.2196/38266\n[j2] Y. Ling, P. Upadhyaya, L. Chen, X. Jiang, Y. Kim. “Emulate Randomized Clinical Trials Using Heterogeneous Treatment Effect Estimation for Personalized Treatments: Methodology Review and Benchmark,” Journal of Biomedical Informatics, 137:104256, 2023.\nDOI: 10.1016/j.jbi.2022.104256\n[c5] B. Wu, P. Upadhyaya, S. Savitz, X. Jiang, S. Shams. “Novel Machine-Learning Analysis to Predict Outcomes During Inpatient Rehabilitation,” World Stroke Congress, 2021.\n[w9] K. Huang, N. Raviv, S. Jain, P. Upadhyaya, J. Bruck, P.H. Siegel, A.A. Jiang. “Improve Robustness of Deep Neural Networks by Coding,” Information Theory and Applications Workshop (ITA), 2020.\n[c4] N. Raviv, S. Jain, P. Upadhyaya, J. Bruck, A. Jiang. “CodNN: Robust Neural Networks from Coded Classification,” IEEE International Symposium on Information Theory (ISIT), 2020.\n[w8] N. Raviv, P. Upadhyaya, S. Jain, J. Bruck, A. Jiang. “Coded Deep Neural Networks for Robust Neural Computation,” Non-Volatile Memories Workshop (NVMW), 2020.\n[c3] P. Upadhyaya, A. Jiang. “Representation-Oblivious Error Correction by Natural Redundancy,” IEEE International Conference on Communications (ICC), Shanghai, China, May 2019.\n[w7] P. Upadhyaya, A. Jiang. “File Type Recognition and Error Correction for NVMs with Deep Learning,” Non-Volatile Memories Workshop (NVMW), La Jolla, CA, March 2019.\n[w6] P. Upadhyaya, X. Yu, J. Mink, J. Cordero, P. Parmar, A. Jiang. “Error Correction for Hardware-Implemented Deep Neural Networks,” Non-Volatile Memories Workshop (NVMW), La Jolla, CA, March 2019.\n[w5] P. Upadhyaya, X. Yu, J. Mink, J. Cordero, P. Parmar, A. Jiang. “Error Correction for Noisy Neural Networks,” Information Theory and Applications (ITA) Workshop, San Diego, CA, February 2019.\n[w4] A. Jiang, P. Upadhyaya, Y. Wang, K.R. Narayanan, H. Zhou, J. Sima, J. Bruck. “Efficient Assistance to LDPC Code-Based Erasure Recovery in NVM Storage,” Non-Volatile Memories Workshop (NVMW), San Diego, CA, March 2018.\n[c2] P. Upadhyaya, A. Jiang. “On LDPC Decoding with Natural Redundancy,” 55th Annual Allerton Conference on Communication, Control, and Computing, 2017.\n[c1] P. Upadhyaya, A. Jiang. “Using Natural Redundancy to Enhance LDPC Decoding for Real-World Files,” IEEE International Symposium on Information Theory (ISIT), 2017."
   }
 ]

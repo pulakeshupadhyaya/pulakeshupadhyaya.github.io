@@ -1,8 +1,17 @@
 ---
 title: "Teaching"
-editor: visual
 ---
 
-Data Engineering and Visualization, May - Aug 2025
+## Experience
 
-Industrial T Project, May- Aug 2025
+* **Assistant Professor**, InfoComm Technology Cluster (ICT), Singapore Institute of Technology, Jan 2025 - Present.
+* **Graduate Teaching Assistant**, Dept. of Computer Science and Engineering, Texas A&M University.
+
+## Courses
+* Singapore Institute of Technology (SIT): 
+    * **AAI 1001** - Data Engineering and Visualization, Trimester 3 (Summer), 2025.\
+* Texas A&M University (TA):
+    * **CSCE 629** - Analysis of Algorithms (Graduate), Fall 2015, Spring 2017 and Fall 2018.\
+    * **CSCE 411** - Analysis of Algorithms, Spring 2016, Fall 2017, Summer 2017, Spring 2019, Summer 2020.\
+    * **CSCE 222** - Discrete Structures for Computing, Fall 2016, Fall 2019.\
+    * **CSCE 121** - Introduction to Program Design and Concepts, Summer 2017.\

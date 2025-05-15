@@ -1,3 +1,22 @@
-![](images/07f124b9-75df-4f19-8ceb-c193b98add19.jpeg){fig-align="left" width="387"}
+![](images/07f124b9-75df-4f19-8ceb-c193b98add19.jpeg){fig-align="left" width="242"}
 
-Hello everyone, this is **Pulakesh Upadhyaya,** *Assistant Professor, Singapore Institute of Technology.*
+---
+title: "Welcome"
+---
+
+## [Pulakesh Upadhyaya - Please specify if you want a name at the top]
+
+Assistant Professor, InfoComm Technology Cluster (ICT), Singapore Institute of Technology.
+
+[Click here for publications.](URL_FOR_PUBLICATIONS)  
+[Download CV.](URL_FOR_CV)
+
+### News:
+* Jan, 2025: Joined as Assistant Professor @ ICT, SIT.
+
+### Services:
+* Guest Associate Editor, Biomedical Signal Processing, Frontiers
+* Reviewer, Journal of Medical Internet Research, IEEE Transactions on Communications, ITW Workshop 2019, Globecom 2019.
+
+---
+[Link to Research Page](URL_FOR_RESEARCH) | [Link to Publications Page](URL_FOR_PUBLICATIONS) | [Link to Teaching Page](URL_FOR_TEACHING) | [Link to Social Page](URL_FOR_SOCIAL)
