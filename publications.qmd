@@ -5,14 +5,6 @@ format: html
 
 # Publications
 
-## Preprints and Reports
-
-- [pr3] A Wu, T Choudhary, P. Upadhyaya, A Ali, P Yang, R Kamaleswaran. “Deep Representation Learning-Based Dynamic Trajectory Phenotyping for Acute Respiratory Failure in Medical Intensive Care Units,” *arXiv preprint arXiv:2405.02563*, 2024.
-
-- [pr2] DB Ramesh, RI Sridhar, P. Upadhyaya, R Kamaleswaran. “Lung Grounded-SAM (LuGSAM): A Novel Framework for Integrating Text prompts to Segment Anything Model (SAM) for Segmentation Tasks of ICU Chest X-Rays,” *Authorea Preprints*, 2023.
-
-- [pr1] P. Upadhyaya and A. Jiang. “Machine Learning for Error Correction with Natural Redundancy,” *arXiv preprint arXiv:1910.07420*, 2019.
-
 ## Journal Articles and Conference Proceedings
 
 - [c10] Krishnan, P; Sikora, A; Upadhyaya, P; Murray, B; Yang, P; Esper, A; Kamaleswaran, R. “1047: MULTIMODAL TREATMENT EFFECT ON HEART RATE VARIABILITY AMONG VASOACTIVE MEDICATION USE IN SEPSIS.” *Critical Care Medicine*, 53(1), January 2025. DOI: 10.1097/01.ccm.0001102852.37247.d5
@@ -66,3 +58,11 @@ format: html
 - [w1] A. Jiang, P. Upadhyaya, E.F. Haratsch, J. Bruck. “Correcting Errors by Natural Redundancy,” *ITA Workshop*, 2017.
 
 - [j1] S. Nair, P. Upadhyaya, V.M. Tom. “A Dynamic Offset Model based on Stop Line Detector Information.” *Procedia - Social and Behavioral Sciences*, 104, 487–496, 2013.
+
+## Preprints and Reports
+
+- [pr3] A Wu, T Choudhary, P. Upadhyaya, A Ali, P Yang, R Kamaleswaran. “Deep Representation Learning-Based Dynamic Trajectory Phenotyping for Acute Respiratory Failure in Medical Intensive Care Units,” *arXiv preprint arXiv:2405.02563*, 2024.
+
+- [pr2] DB Ramesh, RI Sridhar, P. Upadhyaya, R Kamaleswaran. “Lung Grounded-SAM (LuGSAM): A Novel Framework for Integrating Text prompts to Segment Anything Model (SAM) for Segmentation Tasks of ICU Chest X-Rays,” *Authorea Preprints*, 2023.
+
+- [pr1] P. Upadhyaya and A. Jiang. “Machine Learning for Error Correction with Natural Redundancy,” *arXiv preprint arXiv:1910.07420*, 2019.
