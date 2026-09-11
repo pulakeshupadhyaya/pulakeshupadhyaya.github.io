@@ -1,0 +1,24 @@
+---
+layout: default
+title: Home
+---
+
+# Posts
+
+jekyll-theme-minimal has no post-listing layout, so this page builds one.
+
+<ul class="post-list">
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <br>
+    <small>{{ post.date | date: "%-d %B %Y" }}{% if post.description %} — {{ post.description }}{% endif %}</small>
+  </li>
+{% endfor %}
+</ul>
+
+<style>
+.post-list { list-style: none; padding-left: 0; }
+.post-list li { margin-bottom: 1.1em; }
+.post-list small { color: #767676; }
+</style>
