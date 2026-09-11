@@ -7,6 +7,9 @@ format: html
 
 ## Journal Articles and Conference Proceedings
 
+-[j8] LuGSAM: a novel framework for integrating text prompts to Segment Anything Model (SAM) for segmentation tasks of ICU chest x-rays
+DB Ramesh, RI Sridhar, P Upadhyaya, R Kamaleswaran, Multimedia Tools and Applications 84 (42), 50119-50149
+
 - [c10] Krishnan, P; Sikora, A; Upadhyaya, P; Murray, B; Yang, P; Esper, A; Kamaleswaran, R. “1047: MULTIMODAL TREATMENT EFFECT ON HEART RATE VARIABILITY AMONG VASOACTIVE MEDICATION USE IN SEPSIS.” *Critical Care Medicine*, 53(1), January 2025. DOI: 10.1097/01.ccm.0001102852.37247.d5
 
 - [j7] Choudhary T, Upadhyaya P, Parvez MZ, Rafi Ahamed S. “Editorial: Smart biomedical signal analysis with machine intelligence.” *Front. Signal Process*, 2025, 5:1555876.
@@ -61,8 +64,6 @@ format: html
 
 ## Preprints and Reports
 
-- [pr3] A Wu, T Choudhary, P. Upadhyaya, A Ali, P Yang, R Kamaleswaran. “Deep Representation Learning-Based Dynamic Trajectory Phenotyping for Acute Respiratory Failure in Medical Intensive Care Units,” *arXiv preprint arXiv:2405.02563*, 2024.
-
-- [pr2] DB Ramesh, RI Sridhar, P. Upadhyaya, R Kamaleswaran. “Lung Grounded-SAM (LuGSAM): A Novel Framework for Integrating Text prompts to Segment Anything Model (SAM) for Segmentation Tasks of ICU Chest X-Rays,” *Authorea Preprints*, 2023.
+- [pr2] A Wu, T Choudhary, P. Upadhyaya, A Ali, P Yang, R Kamaleswaran. “Deep Representation Learning-Based Dynamic Trajectory Phenotyping for Acute Respiratory Failure in Medical Intensive Care Units,” *arXiv preprint arXiv:2405.02563*, 2024.
 
 - [pr1] P. Upadhyaya and A. Jiang. “Machine Learning for Error Correction with Natural Redundancy,” *arXiv preprint arXiv:1910.07420*, 2019.
