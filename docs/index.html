@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pulakesh Upadhyaya</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap">
+  <style>
+    /* ── Design tokens ────────────────────────────────────────────── */
+    :root {
+      --bg:           #ffffff;
+      --bg-sidebar:   #f8f9fa;
+      --border:       #e1e4e8;
+      --text:         #1c1c1e;
+      --text-muted:   #6b7280;
+      --link:         #2563eb;
+      --link-hover:   #1d4ed8;
+      --nav-active:   #2563eb;
+      --nav-bg:       #ffffff;
+      --hr:           #d1d5db;
+      --photo-border: #e5e7eb;
+      --code-bg:      #f3f4f6;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) {
+        --bg:           #0f1117;
+        --bg-sidebar:   #161b22;
+        --border:       #30363d;
+        --text:         #e6edf3;
+        --text-muted:   #8b949e;
+        --link:         #58a6ff;
+        --link-hover:   #79b8ff;
+        --nav-active:   #58a6ff;
+        --nav-bg:       #161b22;
+        --hr:           #30363d;
+        --photo-border: #30363d;
+        --code-bg:      #161b22;
+      }
+    }
+
+    :root[data-theme="dark"] {
+      --bg:           #0f1117;
+      --bg-sidebar:   #161b22;
+      --border:       #30363d;
+      --text:         #e6edf3;
+      --text-muted:   #8b949e;
+      --link:         #58a6ff;
+      --link-hover:   #79b8ff;
+      --nav-active:   #58a6ff;
+      --nav-bg:       #161b22;
+      --hr:           #30363d;
+      --photo-border: #30363d;
+      --code-bg:      #161b22;
+    }
+
+    /* ── Reset & base ─────────────────────────────────────────────── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Source Sans 3', system-ui, -apple-system, sans-serif;
+      font-size: 16px;
+      line-height: 1.65;
+      color: var(--text);
+      background: var(--bg);
+    }
+
+    a {
+      color: var(--link);
+      text-decoration: none;
+    }
+    a:hover { color: var(--link-hover); text-decoration: underline; }
+
+    /* ── Top navbar ───────────────────────────────────────────────── */
+    .navbar {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: var(--nav-bg);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      padding: 0 1.5rem;
+      height: 54px;
+      gap: 2rem;
+    }
+
+    .navbar-brand {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--text);
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .navbar-brand:hover { text-decoration: none; color: var(--text); }
+
+    .navbar-nav {
+      display: flex;
+      align-items: center;
+      gap: 0;
+      list-style: none;
+    }
+
+    .navbar-nav a {
+      display: block;
+      padding: 0 0.85rem;
+      height: 54px;
+      line-height: 54px;
+      font-size: 0.875rem;
+      font-weight: 400;
+      color: var(--text);
+      border-bottom: 2px solid transparent;
+      transition: color 0.15s, border-color 0.15s;
+    }
+    .navbar-nav a:hover {
+      color: var(--nav-active);
+      text-decoration: none;
+      border-bottom-color: var(--nav-active);
+    }
+    .navbar-nav a.active {
+      color: var(--nav-active);
+      font-weight: 600;
+      border-bottom-color: var(--nav-active);
+    }
+
+    /* hamburger */
+    .nav-toggle {
+      display: none;
+      background: none;
+      border: none;
+      cursor: pointer;
+      padding: 0.25rem;
+      margin-left: auto;
+      color: var(--text);
+    }
+    .nav-toggle span {
+      display: block;
+      width: 22px;
+      height: 2px;
+      background: currentColor;
+      margin: 4px 0;
+      border-radius: 1px;
+      transition: transform 0.2s;
+    }
+
+    /* ── Page body layout ─────────────────────────────────────────── */
+    .page-layout {
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      max-width: 1100px;
+      margin: 0 auto;
+      min-height: calc(100vh - 54px);
+    }
+
+    /* ── Sidebar TOC ──────────────────────────────────────────────── */
+    .sidebar {
+      background: var(--bg-sidebar);
+      border-right: 1px solid var(--border);
+      padding: 2rem 1.25rem 2rem 1.5rem;
+      position: sticky;
+      top: 54px;
+      height: calc(100vh - 54px);
+      overflow-y: auto;
+      font-size: 0.8125rem;
+    }
+
+    .sidebar-label {
+      font-size: 0.6875rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      margin-bottom: 0.75rem;
+    }
+
+    .sidebar-nav {
+      list-style: none;
+      border-left: 1px solid var(--border);
+      padding-left: 0.75rem;
+    }
+
+    .sidebar-nav li { margin: 0.3rem 0; }
+
+    .sidebar-nav a {
+      color: var(--link);
+      font-size: 0.8125rem;
+      line-height: 1.4;
+      display: block;
+      padding: 0.1rem 0;
+    }
+    .sidebar-nav a:hover { text-decoration: underline; }
+
+    .sidebar-nav .toc-section {
+      color: var(--text-muted);
+      font-size: 0.8125rem;
+    }
+
+    /* ── Main content ─────────────────────────────────────────────── */
+    .main-content {
+      padding: 2.5rem 3rem 4rem 3rem;
+      max-width: 780px;
+    }
+
+    /* Welcome heading */
+    .page-title {
+      font-family: 'Source Sans 3', system-ui, sans-serif;
+      font-size: 1.6rem;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 1.25rem;
+      text-wrap: balance;
+    }
+
+    /* Profile photo */
+    .profile-photo {
+      width: 240px;
+      max-width: 100%;
+      border: 1px solid var(--photo-border);
+      display: block;
+      margin-bottom: 1.75rem;
+    }
+
+    /* Profile name section */
+    .profile-name {
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: var(--text);
+      margin-bottom: 0.35rem;
+      text-wrap: balance;
+    }
+
+    .profile-divider {
+      border: none;
+      border-top: 1px solid var(--hr);
+      margin-bottom: 0.9rem;
+    }
+
+    .profile-title {
+      color: var(--text);
+      margin-bottom: 1.5rem;
+      font-size: 0.9375rem;
+    }
+
+    /* Section blocks */
+    .content-section {
+      margin-bottom: 1.5rem;
+    }
+
+    .section-heading {
+      font-weight: 700;
+      font-size: 0.9375rem;
+      color: var(--text);
+      margin-bottom: 0.5rem;
+    }
+
+    .content-section ul {
+      list-style: disc;
+      padding-left: 1.5rem;
+    }
+
+    .content-section ul li {
+      font-size: 0.9375rem;
+      margin-bottom: 0.25rem;
+      color: var(--text);
+    }
+
+    /* Footer links */
+    .page-footer {
+      margin-top: 2.5rem;
+      padding-top: 1.25rem;
+      border-top: 1px solid var(--hr);
+      font-size: 0.875rem;
+    }
+
+    .page-footer a {
+      color: var(--link);
+    }
+    .page-footer a:hover { text-decoration: underline; }
+    .page-footer .sep {
+      margin: 0 0.4rem;
+      color: var(--text-muted);
+    }
+
+    /* ── Responsive ───────────────────────────────────────────────── */
+    @media (max-width: 768px) {
+      .page-layout {
+        grid-template-columns: 1fr;
+      }
+
+      .sidebar {
+        position: static;
+        height: auto;
+        border-right: none;
+        border-bottom: 1px solid var(--border);
+        padding: 1.25rem 1.25rem;
+      }
+
+      .main-content {
+        padding: 1.75rem 1.25rem 3rem;
+      }
+
+      .navbar-nav {
+        display: none;
+        position: absolute;
+        top: 54px;
+        left: 0;
+        right: 0;
+        background: var(--nav-bg);
+        border-bottom: 1px solid var(--border);
+        flex-direction: column;
+        padding: 0.5rem 0;
+        gap: 0;
+        align-items: flex-start;
+      }
+      .navbar-nav.open { display: flex; }
+      .navbar-nav a {
+        height: auto;
+        line-height: 1.5;
+        padding: 0.6rem 1.5rem;
+        border-bottom: none;
+        width: 100%;
+      }
+      .navbar-nav a.active { border-bottom: none; font-weight: 600; }
+
+      .nav-toggle { display: block; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { transition: none !important; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- ── Navbar ─────────────────────────────────────────────────── -->
+  <nav class="navbar">
+    <a href="index.html" class="navbar-brand">Pulakesh Upadhyaya</a>
+
+    <button class="nav-toggle" aria-label="Toggle navigation" onclick="
+      var nav = document.querySelector('.navbar-nav');
+      nav.classList.toggle('open');
+    ">
+      <span></span><span></span><span></span>
+    </button>
+
+    <ul class="navbar-nav" id="main-nav">
+      <li><a href="index.html"        class="active">Home</a></li>
+      <li><a href="research.html"              >Research</a></li>
+      <li><a href="teaching.html"              >Teaching</a></li>
+      <li><a href="social.html"                >Social</a></li>
+      <li><a href="publications.html"          >Publications</a></li>
+      <li><a href="blog.html"                  >Blog</a></li>
+    </ul>
+  </nav>
+
+  <!-- ── Body layout ────────────────────────────────────────────── -->
+  <div class="page-layout">
+
+    <!-- Sidebar TOC -->
+    <aside class="sidebar">
+      <p class="sidebar-label">On this page</p>
+      <ul class="sidebar-nav">
+        <li><a href="#profile">Pulakesh Upadhyaya</a></li>
+        <li><a href="#news" class="toc-section">News:</a></li>
+        <li><a href="#services" class="toc-section">Services:</a></li>
+      </ul>
+    </aside>
+
+    <!-- Main -->
+    <main class="main-content">
+
+      <h1 class="page-title">Welcome</h1>
+
+      <!-- Profile photo — replace src with your actual photo file -->
+      <img
+        src="profile.jpg"
+        alt="Pulakesh Upadhyaya"
+        class="profile-photo"
+        onerror="this.style.display='none'"
+      >
+
+      <h2 class="profile-name" id="profile">Pulakesh Upadhyaya</h2>
+      <hr class="profile-divider">
+
+      <p class="profile-title">
+        Assistant Professor, InfoComm Technology Cluster (ICT), Singapore Institute of Technology.
+      </p>
+
+      <div class="content-section" id="news">
+        <p class="section-heading">News:</p>
+        <ul>
+          <li>Jan, 2025: Joined as Assistant Professor @ ICT, SIT.</li>
+        </ul>
+      </div>
+
+      <div class="content-section" id="services">
+        <p class="section-heading">Services:</p>
+        <ul>
+          <li>Guest Associate Editor, Biomedical Signal Processing, Frontiers</li>
+          <li>Reviewer, Journal of Medical Internet Research, IEEE Transactions on Communications, ITW Workshop 2019, Globecom 2019.</li>
+        </ul>
+      </div>
+
+      <div class="page-footer">
+        <a href="research.html">Research Page</a>
+        <span class="sep">|</span>
+        <a href="publications.html">Publications Page</a>
+        <span class="sep">|</span>
+        <a href="teaching.html">Teaching Page</a>
+        <span class="sep">|</span>
+        <a href="social.html">Social Page</a>
+        <span class="sep">|</span>
+        <a href="blog.html">Blog</a>
+      </div>
+
+    </main>
+  </div>
+
+</body>
+</html>
